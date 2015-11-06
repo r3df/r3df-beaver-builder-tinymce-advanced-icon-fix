@@ -18,14 +18,14 @@ This plugin will not fix or help with missing buttons/icons added by other plugi
 == Installation ==
 = The easy way: =
 1. To install this plugin, click on "Add New" on the plugins page in your WordPress dashboard.
-1. Search for "R3DF Copyright Message", click install when it's found.
+1. Search for "R3DF Beaver Builder", click install when it's found.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. Configure the plugin in the settings page.
 
 = The hard way: =
-1. Download the latest r3df-copyright-message.zip from wordpress.org
-1. Upload r3df-copyright-message.zip to the `/wp-content/plugins/` folder on your web server
-1. Uncompress r3df-copyright-message.zip (delete r3df-copyright-message.zip after it's uncompressed)
+1. Download the latest r3df-beaver-builder-tinymce-advanced-icon-fix.zip from wordpress.org
+1. Upload r3df-beaver-builder-tinymce-advanced-icon-fix.zip to the `/wp-content/plugins/` folder on your web server
+1. Uncompress r3df-beaver-builder-tinymce-advanced-icon-fix.zip (delete r3df-beaver-builder-tinymce-advanced-icon-fix.zip after it's uncompressed)
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Configure the plugin in the settings page.
 
