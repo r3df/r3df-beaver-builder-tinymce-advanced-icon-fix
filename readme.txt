@@ -7,11 +7,10 @@ Tested up to: 4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Restores correct font types to font icons in TinyMCE when using TinyMCE Advanced with Beaver Builder.
-
+Restores correct font types to the font icons in TinyMCE when using TinyMCE Advanced with the Beaver Builder page builder plugin.
 
 == Description ==
-Restores correct font types to font icons in TinyMCE when using TinyMCE Advanced with Beaver Builder.
+Restores correct font types to the font icons in TinyMCE when using TinyMCE Advanced with the Beaver Builder page builder plugin.
 
 This plugin will not fix or help with missing buttons/icons added by other plugins.
 
